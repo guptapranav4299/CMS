@@ -16,7 +16,7 @@ module.exports = {
     },
     
     loginPost: (req, res) => {
-      res.send("Congratulations, you've successfully submitted the data.");  
+      res.send(`<h1>Congratulations, you've successfully submitted the data<h1>`);  
     },
     
     registerGet: (req, res) => {
@@ -24,7 +24,7 @@ module.exports = {
     },
     
     registerPost: (req, res ) => {
-        res.send("Successfully Registered.");
+        res.send(`<h1>Successfully Registered.</h1>`);
     }
     
 };
