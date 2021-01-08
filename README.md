@@ -12,3 +12,10 @@ Technologies-
 [click here] [https://pranav-cms.herokuapp.com]
 
 # Installation 
+```
+git clone
+npm install
+npm start 
+```
+
+
