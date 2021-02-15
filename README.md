@@ -9,7 +9,7 @@ Technologies-
 
 
 # Heroku link
-[click here] [https://pranav-cms.herokuapp.com]
+[click here][https://pranav-cms.herokuapp.com]
 
 # Installation 
 ```
